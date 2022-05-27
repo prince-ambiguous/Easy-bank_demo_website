@@ -381,7 +381,7 @@ a, a:hover, a:visited {
 
 .hero__image {
   position: relative;
-  background-image: url("/app/images/bg-intro-desktop.svg");
+  background-image: url("/FirstWebsite_landingPage/app/images/bg-intro-desktop.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -416,7 +416,7 @@ a, a:hover, a:visited {
     background-position: 0% 83%;
     position: absolute;
     height: 100%;
-    background-image: url("/app/images/bg-intro-desktop.svg");
+    background-image: url("/FirstWebsite_landingPage/app/images/bg-intro-desktop.svg");
   }
 }
 
@@ -425,7 +425,7 @@ a, a:hover, a:visited {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("/app/images/image-mockups.png");
+  background-image: url("/FirstWebsite_landingPage/app/images/image-mockups.png");
   background-size: 92%;
   background-repeat: no-repeat;
   background-position: center bottom;
